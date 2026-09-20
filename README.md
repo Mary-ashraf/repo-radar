@@ -2,7 +2,7 @@
 
 Search GitHub repositories, track your favorites, and see their stars, open issues and last commit.
 
-**Live demo:** _add your Vercel URL here_
+**Live demo:** https://repo-radar-sepia.vercel.app/
 **Stack:** React 19, TypeScript, Redux Toolkit (+ RTK Query), MUI, MUI X Charts, Vite, Vitest
 
 ## Setup
